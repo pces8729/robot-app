@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pces8729/robot-app/static/css/main.37afec20.css",
+    "main.js": "/pces8729/robot-app/static/js/main.419e2eda.js",
+    "static/media/SEGA.woff": "/pces8729/robot-app/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/pces8729/robot-app/index.html",
+    "main.37afec20.css.map": "/pces8729/robot-app/static/css/main.37afec20.css.map",
+    "main.419e2eda.js.map": "/pces8729/robot-app/static/js/main.419e2eda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37afec20.css",
+    "static/js/main.419e2eda.js"
+  ]
+}
